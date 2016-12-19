@@ -27,8 +27,8 @@ img #editcm{
     height: auto;
 }
 
-img.resize #scm{
-    width:200px;
+img #scm{
+    width:80%;
     height: auto;
 }
 div.inner{
