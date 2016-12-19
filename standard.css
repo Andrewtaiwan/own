@@ -23,14 +23,12 @@ body {
 }
 
 img.resize #editcm{
-    width:40vw;
-  width:10%;
+    width:600px;
     height: auto;
 }
 
 img.resize #scm{
-    width:40vw;
-  width:90%;
+    width:200px;
     height: auto;
 }
 div.inner{
