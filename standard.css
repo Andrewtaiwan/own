@@ -22,7 +22,7 @@ body {
 
 }
 
-img.resize #editcm{
+img #editcm{
     width:600px;
     height: auto;
 }
