@@ -33,8 +33,7 @@ div.inner{
   width: calc(100vw- 36px);
   width: -webkit- calc(100vw- 36px);
   width: -moz-calc(100vw- 36px);
-  margin-left:10vw;
-  margin-left:40px;
+
   
 }
 
@@ -79,6 +78,10 @@ footer mi .bigger{
   font-size: 180%;
   background: #2dff00;
   margin-left: 100px;
+}
+
+div #title {
+  width=100%
 }
 ti {
   font-size:70px;
