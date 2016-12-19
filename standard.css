@@ -67,7 +67,7 @@ l{
   font-size: 66px;
   }
 mi {
-  font-size: 150%;
+  font-size: 18px;
 }
 footer mi {
   
@@ -81,8 +81,8 @@ footer mi .bigger{
   margin-left: 100px;
 }
 ti {
-  width:100%;
-  text-align: auto;
+  font-size:70px;
+  text-align: center;
   color: #1100cc;
 }
 
