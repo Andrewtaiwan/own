@@ -22,8 +22,9 @@ body {
 
 }
 
-img.resize{
-    width:70vw; /* you can use % */
+img.resize #editcm{
+    width:60vw;
+  width:40%;
     height: auto;
 }
 
